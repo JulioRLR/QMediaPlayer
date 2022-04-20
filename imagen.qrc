@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="back">C:/Users/USER/Pictures/gato1.jpg</file>
+        <file>220px-Gorillaz_-_Dare.png</file>
+        <file>andromeda.jpg</file>
+        <file>arigato.jpg</file>
+        <file>bad touch.jpg</file>
+        <file>dancin.jpg</file>
+        <file>Human_-_Rag'n'Bone_Man_Single.png</file>
+        <file>SaturnzBarz.jpg</file>
+        <file>gato1.jpg</file>
+    </qresource>
+    <qresource prefix="/music"/>
+</RCC>
